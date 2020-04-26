@@ -1,6 +1,5 @@
-# Minimalist One-Page Site
-Hello, I'm Melisa.
+# Minimalist
 
-I'm trying my hand at using GitHub. :-)
+My third repository on GitHub
 
-I intend this page to have a minimalist appearance.
+I love :book: and :coffee: .
